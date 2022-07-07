@@ -1,0 +1,39 @@
+body {
+  background-image: url('../images/code.jpg');
+  font-family: 'Fredericka the Great', cursive;
+  background-size: cover;
+  text-align: justify;
+  margin: 15px;
+}
+
+.container {
+  background-color: rgba(0, 0, 0, 0.944);
+  color: beige;
+  width: 50%;
+  padding: 20px;
+  border-radius: 15px;
+}
+
+h2 {
+  background-color: rgb(34, 41, 173);
+  padding: 15px;
+  border-radius: 7px;
+}
+
+img {
+  height: 100px;
+  float: right;
+  margin: 15px;
+}
+
+a {
+  text-decoration: none;
+  color: #679aba;
+  text-align: center;
+  font-size: 22px;
+}
+
+.link {
+  text-align: center;
+  margin: 15px;
+}
